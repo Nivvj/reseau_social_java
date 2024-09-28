@@ -1,9 +1,5 @@
 # Distributed System with Java RMI
 
-## Authors
-- Yakaré Koite 
-- Nivetha Vijayatharan 
-
 ## Project Overview
 
 This project implements a distributed system using Java RMI (Remote Method Invocation) to manage various types of agents and users. The system includes the following classes:
